@@ -1,0 +1,24 @@
+# WordPress MySQL database backup
+# Created by UpdraftPlus version 1.22.21 (https://updraftplus.com)
+# WordPress Version: 6.0.2, running on PHP 8.1.9 (Apache), MySQL 10.6.9-MariaDB
+# Backup of: https://wastodo.me
+# Home URL: https://wastodo.me
+# Content URL: https://wastodo.me/wp-content
+# Uploads URL: http://wastodo.me/wp-content/uploads
+# Table prefix: wp_
+# Filtered table prefix: wp_
+# ABSPATH: /opt/bitnami/wordpress/
+# Site info: multisite=0
+# Site info: sql_mode=ERROR_FOR_DIVISION_BY_ZERO,NO_AUTO_CREATE_USER,NO_ENGINE_SUBSTITUTION
+# Site info: end
+
+# Generated: Thursday 15. September 2022 03:46 UTC
+# Hostname: localhost:3306
+# Database: `bitnami_wordpress`
+# --------------------------------------------------------
+/*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
+/*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
+/*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
+/*!40101 SET NAMES utf8mb4 */;
+/*!40101 SET foreign_key_checks = 0 */;
+
